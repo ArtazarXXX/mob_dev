@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab2</string>
+
+    <string name="header_text">Notifications</string>
+
+    <string name="card1_name">Roman Kamushken</string>
+    <string name="card1_time">2 days ago</string>
+    <string name="card1_comment">Check out awesome updates for Android design kit for Figma. Now more screens and more categories.</string>
+    <string name="card1_replays">117 replays</string>
+
+    <string name="card2_name">Tina Turbina</string>
+    <string name="card2_time">18 minutes ago</string>
+    <string name="card2_comment">“into component container and with resizing constraints set????”</string>
+    <string name="card2_replays">117 replays</string>
+
+    <string name="card3_name">Tomek Kuwalskij</string>
+    <string name="card3_time">2 days ago</string>
+    <string name="card3_comment">“into component container and with resizing constraints set????”</string>
+    <string name="card3_replays">117 replays</string>
+    
+    <string name="footer_heart">Account</string>
+</resources>
